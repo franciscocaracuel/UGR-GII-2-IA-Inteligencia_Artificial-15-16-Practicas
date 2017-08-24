@@ -1,2 +1,11 @@
-# UGR-GII-2-IA-Inteligencia_Artificial-15-16-Practicas
-Prácticas de la asignatura IA (2 curso) realizadas en la ETSIIT, UGR en el curso 2015/2016 
+# Prácticas IA - 2º - UGR - ETSIIT - GII
+
+Prácticas realizadas en la asignatura IA (Inteligencia Artificial) del grado en Ingeniería Informática en el curso 2015/2016, UGR.
+
+## Autor
+
+Francisco Javier Caracuel Beltrán
+
+fjcb312@gmail.com
+
+GNU General Public License v3.0
